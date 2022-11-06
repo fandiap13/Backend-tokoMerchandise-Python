@@ -1,3 +1,3 @@
 # Backend-tokoMerchandise-Python
 
-Tugas UAS
+Tugas UAS pemrograman Python menggunakan Framework Flask
